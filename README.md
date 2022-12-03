@@ -1,5 +1,5 @@
 # Freshman-Programming-in-C-and-Python
-I have uploaded the C and python codes for some of the assignments that I did in my spring semester under the course 'INTRODUCTION TO COMPUTER SCIENCE' at IIT-Delhi.
+I have uploaded the C and python codes for some of the assignments that I did in my 2022 spring semester under the course 'INTRODUCTION TO COMPUTER SCIENCE' at IIT-Delhi.
 
 a8) Sudoku solver in python.
 
